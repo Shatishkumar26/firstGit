@@ -1,5 +1,5 @@
 a=1
-b=2
+b=20
 c=a+b
 print(c)
 print(c*b)
